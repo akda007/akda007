@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akda007
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c#, php.
+- 🌱 I’m currently learning C#, C, Makefile.
 
 <!---
 akda007/akda007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
