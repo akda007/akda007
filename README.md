@@ -2,9 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akda007&show_icons=true&theme=synthwave)
 
-- 👋 Hi, I’m @akda007
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C#, C, Makefile.
+- 🌱 I’m currently learning C++, Java.
 
 <!---
 akda007/akda007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
