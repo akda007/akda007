@@ -22,7 +22,6 @@ I love understanding how things actually work behind the scenes, not just how to
 
 ### 📫 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrey-koch-de-araujo-115308349)  
-- 🧠 [GitHub](https://github.com/akda007/akda007)  
 - ✉️ Reach me at: **akocharaujo@gmail.com**
 
 ---
