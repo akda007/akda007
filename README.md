@@ -8,7 +8,7 @@ I love understanding how things actually work behind the scenes, not just how to
 ### 🧠 About Me
 - 🎯 Focused on **embedded development**, **app/web engineering**, and **systems programming**
 - ⚙️ I enjoy working close to the metal — exploring **C/C++**, **Rust**, and how hardware interacts with software
-- 💡 Also comfortable across the stack with **TypeScript**, **React**, **Tauri**, and **Python**
+- 💡 Also comfortable across the stack with **TypeScript**, **React**, **Tauri**, **Java**, **Python** and others...
 - 🧩 Always curious about performance, clean architecture, and learning from real-world systems
 
 ---
