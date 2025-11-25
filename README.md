@@ -14,7 +14,7 @@ I love understanding how things actually work behind the scenes, not just how to
 ---
 
 ### 🧰 Tech Stack
-**Languages:** Rust · C/C++ · Python · TypeScript · Kotlin  
+**Languages:** Rust · C/C++ · Python · TypeScript · Kotlin · Java · C# · Go
 **Frameworks & Tools:** React · Tauri · Node.js · Tkinter · Axum  
 **Other Interests:** Embedded Systems · IoT · Cryptography · AI/ML · Reverse Engineering  
 
